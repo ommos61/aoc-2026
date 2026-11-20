@@ -1,6 +1,6 @@
 # [Advent of Code](https://adventofcode.com/) implementations in C99
 
-Advent of Code 2025, implementations in C99, with all warnings enabled in the
+Advent of Code 2026, implementations in C99, with all warnings enabled in the
 compiler and treating them as errors.
 
 My compiler settings are:
